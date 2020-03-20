@@ -1,2 +1,2 @@
 Hello, World!
-Test v10.5
+Test v10.6
